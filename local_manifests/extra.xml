@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_packages_apps_YahooWeatherProvider" path="packages/apps/YahooWeather" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_packages_apps_OpenWeatherMapProvider" path="packages/apps/OpenWeatherMapProvider" remote="github" revision="cm-13.0" />
+  <project name="TheMuppets/Propietary_vednor_htc" remote="github" revision="cm-13.0" />

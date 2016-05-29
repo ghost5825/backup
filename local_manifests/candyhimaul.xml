@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CandyDevices/device_htc_himaul" path="device/htc/himaul" remote="github" revision="c6"/>
+  <project name="CandyDevices/device_htc_hima-common" path="device/htc/hima-common" remote="github" revision="c6" />
+  <project name="CandyDevices/kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="c6" />
+  <project name="CyanogenMod/android_packages_providers_WeatherProvider" path="packages/providers/WeatherProvider" remote="github" revision="cm-13.0" />
+</manifest>
+

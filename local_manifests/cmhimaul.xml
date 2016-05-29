@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_htc_himaul" path="device/htc/himaul" remote="github" />
+  <project name="CyanogenMod/android_device_htc_hima-common" path="device/htc/hima-common" remote="github" />
+  <project name="CyanogenMod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+</manifest>
